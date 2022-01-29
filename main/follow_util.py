@@ -1,4 +1,3 @@
-from lib2to3.pgen2 import driver
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 from login_util import login
